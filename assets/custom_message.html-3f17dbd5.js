@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-439d52d4","path":"/guide/custom_message.html","title":"创建自定义消息","lang":"en-US","frontmatter":{"title":"创建自定义消息"},"headers":[],"git":{"updatedTime":1670611060000,"contributors":[{"name":"Yukari316","email":"cbgancna@gmail.com","commits":1}]},"filePathRelative":"guide/custom_message.md"}');export{e as data};
