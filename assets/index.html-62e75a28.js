@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"注意事项","lang":"en-US","frontmatter":{"prev":false,"next":"./getting_start"},"headers":[],"git":{"updatedTime":1670611060000,"contributors":[{"name":"Yukari316","email":"cbgancna@gmail.com","commits":1}]},"filePathRelative":"guide/README.md"}');export{e as data};
