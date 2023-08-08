@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0222f0e8","path":"/API/Sora.Entities.Info/GroupMemberInfo/ShutUpTime.html","title":"GroupMemberInfo.ShutUpTime property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/GroupMemberInfo/ShutUpTime.md"}');export{e as data};

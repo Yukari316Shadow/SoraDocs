@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8cc47dd8","path":"/API/Sora.Interfaces/ISoraService/StopService.html","title":"ISoraService.StopService method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Interfaces/ISoraService/StopService.md"}');export{e as data};

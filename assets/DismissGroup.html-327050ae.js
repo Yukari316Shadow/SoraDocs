@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6d4e29de","path":"/API/Sora.Entities.Base/SoraApi/DismissGroup.html","title":"SoraApi.DismissGroup method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Base/SoraApi/DismissGroup.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3afa5b3d","path":"/API/Sora.Entities.Segment/SoraSegment/Xml.html","title":"SoraSegment.Xml method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Segment/SoraSegment/Xml.md"}');export{e as data};

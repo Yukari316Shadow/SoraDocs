@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-024822ed","path":"/API/Sora.Entities/Group/TryDisableCommandSeries.html","title":"Group.TryDisableCommandSeries method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/Group/TryDisableCommandSeries.md"}');export{e as data};

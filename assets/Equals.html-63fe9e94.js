@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-96f1331e","path":"/API/Sora.Entities/Group/Equals.html","title":"Group.Equals method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/Group/Equals.md"}');export{e as data};

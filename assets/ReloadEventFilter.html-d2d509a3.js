@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-57bd9934","path":"/API/Sora.Entities.Base/SoraApi/ReloadEventFilter.html","title":"SoraApi.ReloadEventFilter method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Base/SoraApi/ReloadEventFilter.md"}');export{e as data};

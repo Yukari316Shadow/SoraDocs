@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0d94bb5d","path":"/API/Sora.Interfaces/ISoraConfig/AccessToken.html","title":"ISoraConfig.AccessToken property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Interfaces/ISoraConfig/AccessToken.md"}');export{e as data};

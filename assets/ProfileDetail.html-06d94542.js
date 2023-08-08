@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-72570b9d","path":"/API/Sora.Entities.Info/ProfileDetail/ProfileDetail.html","title":"ProfileDetail constructor","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/ProfileDetail/ProfileDetail.md"}');export{e as data};

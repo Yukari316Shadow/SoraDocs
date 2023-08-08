@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4e3deaa8","path":"/API/Sora.Entities/MessageContext/Equals.html","title":"MessageContext.Equals method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/MessageContext/Equals.md"}');export{e as data};

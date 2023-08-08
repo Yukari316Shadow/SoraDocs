@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4dc50389","path":"/API/Sora.Entities/MessageBody/Count.html","title":"MessageBody.Count property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/MessageBody/Count.md"}');export{e as data};

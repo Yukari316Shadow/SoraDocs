@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-41187fca","path":"/API/Sora.Entities.Info/EssenceInfo/Operator.html","title":"EssenceInfo.Operator property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/EssenceInfo/Operator.md"}');export{e as data};

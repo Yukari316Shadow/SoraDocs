@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5b816f1c","path":"/API/Sora.Entities.Segment/SoraSegment/op_Equality.html","title":"SoraSegment Equality operator","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Segment/SoraSegment/op_Equality.md"}');export{e as data};

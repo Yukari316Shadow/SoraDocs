@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f9483186","path":"/API/Sora.Entities.Info/GroupInfo/MaxMemberCount.html","title":"GroupInfo.MaxMemberCount property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/GroupInfo/MaxMemberCount.md"}');export{e as data};

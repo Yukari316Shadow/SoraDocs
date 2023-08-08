@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-394785ec","path":"/API/Sora.Entities.Segment.DataModel/ImageSegment/Id.html","title":"ImageSegment.Id property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Segment.DataModel/ImageSegment/Id.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3c6f7842","path":"/API/Sora.Entities/Anonymous/Equals.html","title":"Anonymous.Equals method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/Anonymous/Equals.md"}');export{e as data};

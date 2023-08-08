@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-577eebe1","path":"/API/Sora.Entities.Segment/SoraSegment/Face.html","title":"SoraSegment.Face method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Segment/SoraSegment/Face.md"}');export{e as data};

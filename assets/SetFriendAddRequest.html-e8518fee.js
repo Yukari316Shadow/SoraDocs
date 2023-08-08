@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6fc56c1e","path":"/API/Sora.Entities.Base/SoraApi/SetFriendAddRequest.html","title":"SoraApi.SetFriendAddRequest method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Base/SoraApi/SetFriendAddRequest.md"}');export{e as data};

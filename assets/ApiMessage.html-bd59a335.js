@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ac4654e0","path":"/API/Sora.Entities/ApiStatus/ApiMessage.html","title":"ApiStatus.ApiMessage property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/ApiStatus/ApiMessage.md"}');export{e as data};

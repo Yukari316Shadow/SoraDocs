@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5c0743bc","path":"/API/Sora.Entities.Info/FriendInfo/Nick.html","title":"FriendInfo.Nick property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/FriendInfo/Nick.md"}');export{e as data};

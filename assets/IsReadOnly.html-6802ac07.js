@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-789f18a4","path":"/API/Sora.Entities/MessageBody/IsReadOnly.html","title":"MessageBody.IsReadOnly property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/MessageBody/IsReadOnly.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2618bbc5","path":"/API/Sora.EventArgs.SoraEvent/HonorEventArgs/Honor.html","title":"HonorEventArgs.Honor property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.EventArgs.SoraEvent/HonorEventArgs/Honor.md"}');export{e as data};

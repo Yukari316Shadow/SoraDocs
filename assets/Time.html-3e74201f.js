@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-784d51d2","path":"/API/Sora.Attributes/Reviewed/Time.html","title":"Reviewed.Time property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Attributes/Reviewed/Time.md"}');export{e as data};

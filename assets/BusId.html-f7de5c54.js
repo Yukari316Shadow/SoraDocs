@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-780291ed","path":"/API/Sora.Entities.Info/GroupFileInfo/BusId.html","title":"GroupFileInfo.BusId property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/GroupFileInfo/BusId.md"}');export{e as data};

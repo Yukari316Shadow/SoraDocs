@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3d7d0518","path":"/API/Sora.Entities.Info/GroupMemberInfo/Card.html","title":"GroupMemberInfo.Card property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/GroupMemberInfo/Card.md"}');export{e as data};

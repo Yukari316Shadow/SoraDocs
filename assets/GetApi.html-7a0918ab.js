@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-168b53b4","path":"/API/Sora.Net/SoraWebsocketClient/GetApi.html","title":"SoraWebsocketClient.GetApi method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Net/SoraWebsocketClient/GetApi.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-371f5282","path":"/API/Sora.Interfaces/ISoraConfig/Port.html","title":"ISoraConfig.Port property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Interfaces/ISoraConfig/Port.md"}');export{e as data};

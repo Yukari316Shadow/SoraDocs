@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-059422db","path":"/API/Sora.Entities.Base/SoraApi/SetGroupPortrait.html","title":"SoraApi.SetGroupPortrait method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Base/SoraApi/SetGroupPortrait.md"}');export{e as data};

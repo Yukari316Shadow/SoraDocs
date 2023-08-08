@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9b5d96b2","path":"/API/Sora.OnebotAdapter/EventAdapter/OnFriendRecall.html","title":"EventAdapter.OnFriendRecall event","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.OnebotAdapter/EventAdapter/OnFriendRecall.md"}');export{e as data};

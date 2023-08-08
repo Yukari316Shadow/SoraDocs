@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-417a4a52","path":"/API/Sora.Entities.Segment/SoraSegment/op_Inequality.html","title":"SoraSegment Inequality operator","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Segment/SoraSegment/op_Inequality.md"}');export{e as data};

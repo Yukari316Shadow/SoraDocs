@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-02b228f2","path":"/API/Sora.Net/SoraWebsocketClient/ConnManager.html","title":"SoraWebsocketClient.ConnManager property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Net/SoraWebsocketClient/ConnManager.md"}');export{e as data};

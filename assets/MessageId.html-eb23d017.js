@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-16312f25","path":"/API/Sora.Entities/MessageContext/MessageId.html","title":"MessageContext.MessageId property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/MessageContext/MessageId.md"}');export{e as data};

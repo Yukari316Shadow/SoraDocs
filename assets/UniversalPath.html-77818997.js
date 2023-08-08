@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f096883c","path":"/API/Sora.Interfaces/ISoraConfig/UniversalPath.html","title":"ISoraConfig.UniversalPath property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Interfaces/ISoraConfig/UniversalPath.md"}');export{e as data};

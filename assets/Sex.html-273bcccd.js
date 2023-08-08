@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-388ffd49","path":"/API/Sora.Entities.Info/GroupSenderInfo/Sex.html","title":"GroupSenderInfo.Sex property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/GroupSenderInfo/Sex.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-540c8b46","path":"/API/Sora.Interfaces/ISoraService/ConnManager.html","title":"ISoraService.ConnManager property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Interfaces/ISoraService/ConnManager.md"}');export{e as data};

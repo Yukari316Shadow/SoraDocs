@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-97a2ae6e","path":"/API/Sora.Entities.Segment.DataModel/Node/GroupId.html","title":"Node.GroupId property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Segment.DataModel/Node/GroupId.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2b2444e3","path":"/API/Sora/VersionCode/ONEBOT_PROTOCOL.html","title":"VersionCode.ONEBOT_PROTOCOL field","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora/VersionCode/ONEBOT_PROTOCOL.md"}');export{e as data};

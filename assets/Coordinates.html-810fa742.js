@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-722d6a24","path":"/API/Sora.Entities/TextDetection/Coordinates.html","title":"TextDetection.Coordinates property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/TextDetection/Coordinates.md"}');export{e as data};

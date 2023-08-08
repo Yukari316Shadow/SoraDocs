@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f50b82c8","path":"/API/Sora.Entities.Segment.DataModel/AtSegment/Name.html","title":"AtSegment.Name property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Segment.DataModel/AtSegment/Name.md"}');export{e as data};

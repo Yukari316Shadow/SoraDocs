@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-452066d6","path":"/API/Sora.Entities.Base/SoraApi/RemoveBlock.html","title":"SoraApi.RemoveBlock method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Base/SoraApi/RemoveBlock.md"}');export{e as data};

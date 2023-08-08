@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7fdbde47","path":"/API/Sora.Entities.Base/BaseModel/SoraApi.html","title":"BaseModel.SoraApi property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Base/BaseModel/SoraApi.md"}');export{e as data};

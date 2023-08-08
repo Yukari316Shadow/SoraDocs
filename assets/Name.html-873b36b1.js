@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-25a04951","path":"/API/Sora.Entities.Info/GroupFolderInfo/Name.html","title":"GroupFolderInfo.Name property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/GroupFolderInfo/Name.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-45cb401e","path":"/API/Sora.Net.Config/ServerConfig/ServerConfig.html","title":"ServerConfig constructor","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Net.Config/ServerConfig/ServerConfig.md"}');export{e as data};

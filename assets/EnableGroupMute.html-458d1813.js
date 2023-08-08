@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-cecbe226","path":"/API/Sora.Entities/Group/EnableGroupMute.html","title":"Group.EnableGroupMute method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/Group/EnableGroupMute.md"}');export{e as data};

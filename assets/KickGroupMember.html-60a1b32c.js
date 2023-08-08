@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fc76d662","path":"/API/Sora.Entities/Group/KickGroupMember.html","title":"Group.KickGroupMember method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/Group/KickGroupMember.md"}');export{e as data};

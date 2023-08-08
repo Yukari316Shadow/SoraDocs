@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-702e0003","path":"/API/Sora.Entities.Info/GroupFileInfo/ModifyTime.html","title":"GroupFileInfo.ModifyTime property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/GroupFileInfo/ModifyTime.md"}');export{e as data};

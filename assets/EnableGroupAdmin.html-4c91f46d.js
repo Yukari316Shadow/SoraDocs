@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5f15b880","path":"/API/Sora.Entities.Base/SoraApi/EnableGroupAdmin.html","title":"SoraApi.EnableGroupAdmin method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Base/SoraApi/EnableGroupAdmin.md"}');export{e as data};

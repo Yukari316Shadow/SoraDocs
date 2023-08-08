@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4574dc0c","path":"/API/Sora.Entities/Vector2/X.html","title":"Vector2.X property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/Vector2/X.md"}');export{e as data};

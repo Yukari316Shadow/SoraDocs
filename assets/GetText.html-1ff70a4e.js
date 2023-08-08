@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fc88c5b8","path":"/API/Sora.Entities/MessageContext/GetText.html","title":"MessageContext.GetText method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/MessageContext/GetText.md"}');export{e as data};

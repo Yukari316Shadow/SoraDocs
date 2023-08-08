@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ccd32452","path":"/API/Sora.Entities.Info/GroupRequestInfo/GroupName.html","title":"GroupRequestInfo.GroupName property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/GroupRequestInfo/GroupName.md"}');export{e as data};

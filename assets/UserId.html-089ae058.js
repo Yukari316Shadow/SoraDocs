@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7fce9c20","path":"/API/Sora.Entities.Info/GroupNoticeInfo/UserId.html","title":"GroupNoticeInfo.UserId property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/GroupNoticeInfo/UserId.md"}');export{e as data};

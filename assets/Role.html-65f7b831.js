@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-33d013cd","path":"/API/Sora.Entities.Info/GroupSenderInfo/Role.html","title":"GroupSenderInfo.Role property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/GroupSenderInfo/Role.md"}');export{e as data};

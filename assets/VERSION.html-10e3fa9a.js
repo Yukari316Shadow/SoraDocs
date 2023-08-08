@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f0ea2e3e","path":"/API/Sora/VersionCode/VERSION.html","title":"VersionCode.VERSION field","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora/VersionCode/VERSION.md"}');export{e as data};

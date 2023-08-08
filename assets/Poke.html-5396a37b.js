@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-77ad9025","path":"/API/Sora.Entities.Segment/SoraSegment/Poke.html","title":"SoraSegment.Poke method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Segment/SoraSegment/Poke.md"}');export{e as data};

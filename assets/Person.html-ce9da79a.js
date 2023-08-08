@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-16a394cf","path":"/API/Sora.Attributes/Reviewed/Person.html","title":"Reviewed.Person property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Attributes/Reviewed/Person.md"}');export{e as data};

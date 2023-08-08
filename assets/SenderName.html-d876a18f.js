@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-41951342","path":"/API/Sora.Entities.Info/EssenceInfo/SenderName.html","title":"EssenceInfo.SenderName property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/EssenceInfo/SenderName.md"}');export{e as data};

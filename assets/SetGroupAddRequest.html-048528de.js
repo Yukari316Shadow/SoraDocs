@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-66ca6730","path":"/API/Sora.Entities.Base/SoraApi/SetGroupAddRequest.html","title":"SoraApi.SetGroupAddRequest method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Base/SoraApi/SetGroupAddRequest.md"}');export{e as data};

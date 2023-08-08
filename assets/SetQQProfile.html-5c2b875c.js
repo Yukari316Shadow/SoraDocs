@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-223d2dec","path":"/API/Sora.Entities.Base/SoraApi/SetQQProfile.html","title":"SoraApi.SetQQProfile method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Base/SoraApi/SetQQProfile.md"}');export{e as data};

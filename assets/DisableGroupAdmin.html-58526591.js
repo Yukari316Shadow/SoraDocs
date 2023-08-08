@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-db7daf2c","path":"/API/Sora.Entities/Group/DisableGroupAdmin.html","title":"Group.DisableGroupAdmin method","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/Group/DisableGroupAdmin.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-50ec3970","path":"/API/Sora.Entities.Info/NoticeImage/Width.html","title":"NoticeImage.Width property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/NoticeImage/Width.md"}');export{e as data};

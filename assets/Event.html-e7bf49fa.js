@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3a14d2ae","path":"/API/Sora.Net/SoraWebsocketClient/Event.html","title":"SoraWebsocketClient.Event property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Net/SoraWebsocketClient/Event.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6026c26a","path":"/API/Sora.Entities/Group/op_Equality.html","title":"Group Equality operator","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities/Group/op_Equality.md"}');export{e as data};

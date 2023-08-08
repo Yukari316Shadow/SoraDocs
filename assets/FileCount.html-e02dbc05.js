@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3c8c3868","path":"/API/Sora.Entities.Info/GroupFileSysInfo/FileCount.html","title":"GroupFileSysInfo.FileCount property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/GroupFileSysInfo/FileCount.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4a8801e2","path":"/API/Sora.Net.Config/ServerConfig/ApiTimeOut.html","title":"ServerConfig.ApiTimeOut property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Net.Config/ServerConfig/ApiTimeOut.md"}');export{e as data};

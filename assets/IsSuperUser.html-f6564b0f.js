@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-64e14952","path":"/API/Sora.Entities.Info/FriendInfo/IsSuperUser.html","title":"FriendInfo.IsSuperUser property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/FriendInfo/IsSuperUser.md"}');export{e as data};

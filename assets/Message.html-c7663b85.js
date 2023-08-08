@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-471a30cc","path":"/API/Sora.Entities.Info/GroupRequestInfo/Message.html","title":"GroupRequestInfo.Message property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/GroupRequestInfo/Message.md"}');export{e as data};

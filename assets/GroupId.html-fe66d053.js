@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-30baf571","path":"/API/Sora.Entities.Info/PrivateSenderInfo/GroupId.html","title":"PrivateSenderInfo.GroupId property","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"API/Sora.Entities.Info/PrivateSenderInfo/GroupId.md"}');export{e as data};
